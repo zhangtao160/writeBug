@@ -8,6 +8,7 @@ class EurekaclientApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("test");
     }
 
 }

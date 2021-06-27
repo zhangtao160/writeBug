@@ -28,12 +28,12 @@ public class MavenWrapperDownloader {
     private static final String DEFAULT_DOWNLOAD_URL = "https://repo.maven.apache.org/maven2/io/takari/maven-wrapper/"
             + WRAPPER_VERSION + "/maven-wrapper-" + WRAPPER_VERSION + ".jar";
 
-    /**
+    /**git pull origin master --allow-unrelated-histories
      * Path to the maven-wrapper.properties file, which might contain a downloadUrl property to
      * use instead of the default one.
      */
     private static final String MAVEN_WRAPPER_PROPERTIES_PATH =
-            ".mvn/wrapper/maven-wrapper.properties";
+            ".mvn/wrapper/maven-wragit pull origin master --allow-unrelated-historiespper.properties";
 
     /**
      * Path where the maven-wrapper.jar will be saved to.
